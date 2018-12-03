@@ -12,4 +12,4 @@
 
 - with `layovers_simplified.py` outputs `.csv` bus graph data (timetable) with generic start and end points
 
-- with `layovers_extended.py` outputs `Data_busgraph.csv` bus graph data with Naptan start and end points, and `.csv` estimated battery consumption data.
+- with `layovers_extended.py` outputs `Data_busgraph.csv` bus graph data with Naptan start and end points, and `.xlsx` with battery consumption estimation data/analysis (sawtooth graph data, identifying SOC falling below 25%, cumulative journey time/dwell time etc).
